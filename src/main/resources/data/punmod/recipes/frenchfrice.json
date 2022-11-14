@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "punmod:dangerice"
+    }
+  ],
+  "result": {
+    "item": "punmod:frenchfrice"
+  }
+}

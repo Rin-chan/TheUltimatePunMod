@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    "key": {
+	    "B": {
+	        "item": "punmod:batleiron"
+	    },
+	    "A": {
+	      	"item": "minecraft:apple"
+  		}
+    },
+    "result": {
+        "item": "punmod:batleorepple"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "RAR",
+        "RRR"
+    ],
+    "key": {
+	    "R": {
+	        "item": "minecraft:redstone"
+	    },
+	    "A": {
+	      	"item": "minecraft:apple"
+  		}
+    },
+    "result": {
+        "item": "punmod:redstoneorepple"
+    }
+}

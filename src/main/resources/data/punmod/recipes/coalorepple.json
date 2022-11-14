@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "CAC",
+        "CCC"
+    ],
+    "key": {
+	    "C": {
+	        "item": "minecraft:coal"
+	    },
+	    "A": {
+	      	"item": "minecraft:apple"
+  		}
+    },
+    "result": {
+        "item": "punmod:coalorepple"
+    }
+}

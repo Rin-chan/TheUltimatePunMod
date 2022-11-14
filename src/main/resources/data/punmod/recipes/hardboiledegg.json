@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:egg"
+    },
+    "result": {
+		"item": "punmod:hardboiledegg",
+		"count": 3
+	},
+    "experience": 1.0,
+    "cookingtime": 100
+}

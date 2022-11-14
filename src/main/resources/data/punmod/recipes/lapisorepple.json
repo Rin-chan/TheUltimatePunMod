@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "LAL",
+        "LLL"
+    ],
+    "key": {
+	    "L": {
+	        "item": "minecraft:lapis_lazuli"
+	    },
+	    "A": {
+	      	"item": "minecraft:apple"
+  		}
+    },
+    "result": {
+        "item": "punmod:lapisorepple"
+    }
+}
