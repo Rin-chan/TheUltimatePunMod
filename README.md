@@ -19,7 +19,7 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ❌ Glowice<br>
         ❌ Res-ice-tant Stairs<br>
         ✔ Danger-ice (Have not added the block yet)<br>
-        ✔ Mint (Have not added the block yet)<br>
+        ✔ Mint (Have not added the block yet, Not yet added to dungeon chest)<br>
         ❌ D-ice-mention Portal
     </details>
     <details>
@@ -49,10 +49,10 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
     </details>
     <details>
         <summary>Tools</summary>
-        ❌ The Stone of Mite<br>
-        ❌ Flying Pan<br>
-        ❌ Flee Bag<br>
-        ❌ Sand-orcery<br>
+        ✔ The Stone of Mite<br>
+        ✔ Flying Pan<br>
+        ✔ Flee Bag (Not yet added to dungeon chest)<br>
+        ✔ Sand-orcery (No functionality yet)<br>
         ❌ Bat-le Axe<br>
         ❌ Dyemond Axe<br>
         ❌ Nether Dyemond Axe<br>
@@ -98,7 +98,7 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ❌ Pane Maker<br>
         ❌ The Grater Sword<br>
         ❌ Bat-le Sword<br>
-        ❌ Mintser<br>
+        ❌ Mints-er<br>
         ❌ Dyemond Sword<br>
         ❌ Nether Dyemond Sword<br>
         ❌ End Dyemond Sword<br>

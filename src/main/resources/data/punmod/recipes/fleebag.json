@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LGL",
+        "LRL",
+        "LLL"
+    ],
+    "key": {
+	    "L": {
+	        "item": "minecraft:leather"
+	    },
+	    "G": {
+	      	"item": "minecraft:gold_nugget"
+  		},
+  		"R": {
+  			"item": "minecraft:redstone"
+  		}
+    },
+    "result": {
+        "item": "punmod:fleebag"
+    }
+}

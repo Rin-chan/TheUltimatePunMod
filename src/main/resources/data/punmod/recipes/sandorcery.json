@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SRS",
+        "STS",
+        "STS"
+    ],
+    "key": {
+	    "S": {
+	        "item": "minecraft:sand"
+	    },
+	    "R": {
+	      	"item": "minecraft:redstone"
+  		},
+  		"T": {
+  			"item": "minecraft:stick"
+  		}
+    },
+    "result": {
+        "item": "punmod:sandorcery"
+    }
+}

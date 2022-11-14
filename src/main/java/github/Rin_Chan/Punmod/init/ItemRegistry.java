@@ -13,6 +13,8 @@ import github.Rin_Chan.Punmod.item.DyemondItem;
 import github.Rin_Chan.Punmod.item.DyemondOreppleItem;
 import github.Rin_Chan.Punmod.item.EmeraldOreppleItem;
 import github.Rin_Chan.Punmod.item.FlameThwoolerItem;
+import github.Rin_Chan.Punmod.item.FleeBagItem;
+import github.Rin_Chan.Punmod.item.FlyingPanItem;
 import github.Rin_Chan.Punmod.item.FrenchFriceItem;
 import github.Rin_Chan.Punmod.item.HardBoiledEggItem;
 import github.Rin_Chan.Punmod.item.IronOreppleItem;
@@ -22,6 +24,8 @@ import github.Rin_Chan.Punmod.item.MorningStarItem;
 import github.Rin_Chan.Punmod.item.ObsiDieAnShardsItem;
 import github.Rin_Chan.Punmod.item.RainbowItem;
 import github.Rin_Chan.Punmod.item.RedstoneOreppleItem;
+import github.Rin_Chan.Punmod.item.SandorceryItem;
+import github.Rin_Chan.Punmod.item.TheStoneOfMiteItem;
 import github.Rin_Chan.Punmod.item.TheUltimateBlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
@@ -46,6 +50,10 @@ public class ItemRegistry {
 
     public static final RegistryObject<FlameThwoolerItem> FLAMETHWOOLER = ITEMS.register("flamethwooler", FlameThwoolerItem::new);
     public static final RegistryObject<RainbowItem> RAINBOW = ITEMS.register("rainbow", RainbowItem::new);
+    public static final RegistryObject<TheStoneOfMiteItem> THESTONEOFMITE = ITEMS.register("thestoneofmite", TheStoneOfMiteItem::new);
+    public static final RegistryObject<FlyingPanItem> FLYINGPAN = ITEMS.register("flyingpan", FlyingPanItem::new);
+    public static final RegistryObject<FleeBagItem> FLEEBAG = ITEMS.register("fleebag", FleeBagItem::new);
+    public static final RegistryObject<SandorceryItem> SANDORCERY = ITEMS.register("sandorcery", SandorceryItem::new);
     
     public static final RegistryObject<HardBoiledEggItem> HARDBOILEDEGG = ITEMS.register("hardboiledegg", HardBoiledEggItem::new);
     public static final RegistryObject<BatFurItem> BATFUR = ITEMS.register("batfur", BatFurItem::new);
