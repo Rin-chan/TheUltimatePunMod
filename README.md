@@ -19,7 +19,7 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ❌ Glowice<br>
         ❌ Res-ice-tant Stairs<br>
         ✔ Danger-ice (Have not added the block yet)<br>
-        ❌ Mint<br>
+        ✔ Mint (Have not added the block yet)<br>
         ❌ D-ice-mention Portal
     </details>
     <details>
@@ -27,14 +27,13 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ✔ Hard Boiled Egg<br>
         ✔ Bat Fur (Currently does not drop from bats)<br>
         ✔ Bat-le Iron<br>
-        ❌ Morning Star<br>
-        ❌ The Ultimate Block<br>
-        ❌ Mint<br>
+        ✔ Morning Star<br>
+        ✔ The Ultimate Block<br>
         ✔ Dyemond<br>
-        ❌ Obsi-Die-an Shards<br>
-        ❌ Rainbow<br>
-        ❌ Droplet<br>
-        ❌ D-ice-mond Orb
+        ✔ Obsi-Die-an Shards (Unobtainable ATM)<br>
+        ✔ Rainbow (No functionality yet)<br>
+        ✔ Droplet<br>
+        ✔ D-ice-mond Orb
     </details>
     <details>
         <summary>Foods</summary>
@@ -92,7 +91,7 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ❌ Canink<br>
         ❌ Tentacannon<br>
         ❌ Icesickle<br>
-        ❌ Flamethwooler<br>
+        ✔ Flamethwooler (No functionality yet)<br>
         ❌ Pork Chopper<br>
         ❌ Holey Sword<br>
         ❌ Piece Maker<br>

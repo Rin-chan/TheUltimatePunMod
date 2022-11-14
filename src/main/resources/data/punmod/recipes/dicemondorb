@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " D ",
+        "DDD",
+        " D "
+    ],
+    "key": {
+	    "D": {
+	        "item": "minecraft:diamond"
+	    }
+    },
+    "result": {
+        "item": "punmod:dicemondorb"
+    }
+}

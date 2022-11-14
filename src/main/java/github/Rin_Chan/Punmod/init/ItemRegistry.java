@@ -5,8 +5,10 @@ import github.Rin_Chan.Punmod.item.BatFurItem;
 import github.Rin_Chan.Punmod.item.BatleIronItem;
 import github.Rin_Chan.Punmod.item.BatleOreppleItem;
 import github.Rin_Chan.Punmod.item.CoalOreppleItem;
+import github.Rin_Chan.Punmod.item.DIceMondOrbItem;
 import github.Rin_Chan.Punmod.item.DangerIceItem;
 import github.Rin_Chan.Punmod.item.DiamondOreppleItem;
+import github.Rin_Chan.Punmod.item.DropletItem;
 import github.Rin_Chan.Punmod.item.DyemondItem;
 import github.Rin_Chan.Punmod.item.DyemondOreppleItem;
 import github.Rin_Chan.Punmod.item.EmeraldOreppleItem;
@@ -15,7 +17,12 @@ import github.Rin_Chan.Punmod.item.FrenchFriceItem;
 import github.Rin_Chan.Punmod.item.HardBoiledEggItem;
 import github.Rin_Chan.Punmod.item.IronOreppleItem;
 import github.Rin_Chan.Punmod.item.LapisOreppleItem;
+import github.Rin_Chan.Punmod.item.MintItem;
+import github.Rin_Chan.Punmod.item.MorningStarItem;
+import github.Rin_Chan.Punmod.item.ObsiDieAnShardsItem;
+import github.Rin_Chan.Punmod.item.RainbowItem;
 import github.Rin_Chan.Punmod.item.RedstoneOreppleItem;
+import github.Rin_Chan.Punmod.item.TheUltimateBlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
@@ -38,12 +45,19 @@ public class ItemRegistry {
     public static final RegistryObject<FrenchFriceItem> FRENCHFRICE = ITEMS.register("frenchfrice", FrenchFriceItem::new);
 
     public static final RegistryObject<FlameThwoolerItem> FLAMETHWOOLER = ITEMS.register("flamethwooler", FlameThwoolerItem::new);
+    public static final RegistryObject<RainbowItem> RAINBOW = ITEMS.register("rainbow", RainbowItem::new);
     
     public static final RegistryObject<HardBoiledEggItem> HARDBOILEDEGG = ITEMS.register("hardboiledegg", HardBoiledEggItem::new);
     public static final RegistryObject<BatFurItem> BATFUR = ITEMS.register("batfur", BatFurItem::new);
     public static final RegistryObject<DyemondItem> DYEMOND = ITEMS.register("dyemond", DyemondItem::new);
     public static final RegistryObject<BatleIronItem> BATLEIRON = ITEMS.register("batleiron", BatleIronItem::new);
     public static final RegistryObject<DangerIceItem> DANGERICE = ITEMS.register("dangerice", DangerIceItem::new);
+    public static final RegistryObject<DIceMondOrbItem> DICEMONDORB = ITEMS.register("dicemondorb", DIceMondOrbItem::new);
+    public static final RegistryObject<DropletItem> DROPLET = ITEMS.register("droplet", DropletItem::new);
+    public static final RegistryObject<MintItem> MINT = ITEMS.register("mint", MintItem::new);
+    public static final RegistryObject<MorningStarItem> MORNINGSTAR = ITEMS.register("morningstar", MorningStarItem::new);
+    public static final RegistryObject<ObsiDieAnShardsItem> OBSIDIEANSHARDS = ITEMS.register("obsidieanshards", ObsiDieAnShardsItem::new);
+    public static final RegistryObject<TheUltimateBlockItem> THEULTIMATEBLOCK = ITEMS.register("theultimateblock", TheUltimateBlockItem::new);
     
     public static void init() {
         BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
