@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "punmod:dyemondhoe"
+    },
+    {
+      "item": "minecraft:nether_bricks"
+    }
+  ],
+  "result": {
+    "item": "punmod:netherdyemondhoe"
+  }
+}

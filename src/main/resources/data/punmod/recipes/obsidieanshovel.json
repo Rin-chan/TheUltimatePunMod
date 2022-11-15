@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " O ",
+        " S ",
+        " S "
+    ],
+    "key": {
+	    "O": {
+	        "item": "punmod:obsidieanshards"
+	    },
+	    "S": {
+	      	"item": "minecraft:stick"
+  		}
+    },
+    "result": {
+        "item": "punmod:obsidieanshovel"
+    }
+}

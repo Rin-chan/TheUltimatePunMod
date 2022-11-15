@@ -43,5 +43,19 @@
 	"item.punmod.netherdyemondpickaxe": "Nether Dyemond Pickaxe",
 	"item.punmod.enddyemondpickaxe": "End Dyemond Pickaxe",
 	"item.punmod.luxdyemondpickaxe": "Lux Dyemond Pickaxe",
-	"item.punmod.obsidieanpickaxe": "Obsi-Die-An Pickaxe"
+	"item.punmod.obsidieanpickaxe": "Obsi-Die-An Pickaxe",
+	
+	"item.punmod.batleshovel": "Bat-le Shovel",
+	"item.punmod.dyemondshovel": "Dyemond Shovel",
+	"item.punmod.netherdyemondshovel": "Nether Dyemond Shovel",
+	"item.punmod.enddyemondshovel": "End Dyemond Shovel",
+	"item.punmod.luxdyemondshovel": "Lux Dyemond Shovel",
+	"item.punmod.obsidieanshovel": "Obsi-Die-An Shovel",
+	
+	"item.punmod.batlehoe": "Bat-le Hoe",
+	"item.punmod.dyemondhoe": "Dyemond Hoe",
+	"item.punmod.netherdyemondhoe": "Nether Dyemond Hoe",
+	"item.punmod.enddyemondhoe": "End Dyemond Hoe",
+	"item.punmod.luxdyemondhoe": "Lux Dyemond Hoe",
+	"item.punmod.obsidieanhoe": "Obsi-Die-An Hoe"
 }
