@@ -66,18 +66,18 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ✔ End Dyemond Pickaxe<br>
         ✔ Lux Dyemond Pickaxe<br>
         ✔ Obsi-Die-an Pickaxe<br>
-        ❌ Bat-le Shovel<br>
-        ❌ Dyemond Shovel<br>
-        ❌ Nether Dyemond Shovel<br>
-        ❌ End Dyemond Shovel<br>
-        ❌ Lux Dyemond Shovel<br>
-        ❌ Obsi-Die-an Shovel<br>
-        ❌ Bat-le Hoe<br>
-        ❌ Dyemond Hoe<br>
-        ❌ Nether Dyemond Hoe<br>
-        ❌ End Dyemond Hoe<br>
-        ❌ Lux Dyemond Hoe<br>
-        ❌ Obsi-Die-an Hoe
+        ✔ Bat-le Shovel<br>
+        ✔ Dyemond Shovel<br>
+        ✔ Nether Dyemond Shovel<br>
+        ✔ End Dyemond Shovel<br>
+        ✔ Lux Dyemond Shovel<br>
+        ✔ Obsi-Die-an Shovel<br>
+        ✔ Bat-le Hoe<br>
+        ✔ Dyemond Hoe<br>
+        ✔ Nether Dyemond Hoe<br>
+        ✔ End Dyemond Hoe<br>
+        ✔ Lux Dyemond Hoe<br>
+        ✔ Obsi-Die-an Hoe
     </details>
     <details>
         <summary>Weapons</summary>
