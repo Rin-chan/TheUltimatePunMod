@@ -23,8 +23,8 @@ import github.Rin_Chan.Punmod.item.SandorceryItem;
 import github.Rin_Chan.Punmod.item.TheStoneOfMiteItem;
 import github.Rin_Chan.Punmod.item.TheUltimateBlockItem;
 import net.minecraft.world.item.AxeItem;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.PickaxeItem;
 import net.minecraft.world.item.Tiers;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
@@ -72,6 +72,14 @@ public class ItemRegistry {
     public static final RegistryObject<AxeItem> ENDDYEMONDAXE = ITEMS.register("enddyemondaxe", () -> new AxeItem(Tiers.NETHERITE, 4.5F, -3.0F, (new Item.Properties().durability(1800)).tab(ModItemGroup.PUN_MOD)));
     public static final RegistryObject<AxeItem> LUXDYEMONDAXE = ITEMS.register("luxdyemondaxe", () -> new AxeItem(Tiers.NETHERITE, 4.5F, -3.0F, (new Item.Properties().durability(1800)).tab(ModItemGroup.PUN_MOD)));
     public static final RegistryObject<AxeItem> OBSIDIEANAXE = ITEMS.register("obsidieanaxe", () -> new AxeItem(Tiers.DIAMOND, 5.0F, -3.2F, (new Item.Properties()).tab(ModItemGroup.PUN_MOD)));
+    
+    public static final RegistryObject<PickaxeItem> BATLEPICKAXE = ITEMS.register("batlepickaxe", () -> new PickaxeItem(Tiers.IRON, 1, -2.8F, (new Item.Properties().durability(750)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<PickaxeItem> BREAKFAST = ITEMS.register("breakfast", () -> new PickaxeItem(Tiers.NETHERITE, 1, -2.8F, (new Item.Properties().durability(100)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<PickaxeItem> DYEMONDPICKAXE = ITEMS.register("dyemondpickaxe", () -> new PickaxeItem(Tiers.DIAMOND, 1, -2.8F, (new Item.Properties().durability(1800)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<PickaxeItem> NETHERDYEMONDPICKAXE = ITEMS.register("netherdyemondpickaxe", () -> new PickaxeItem(Tiers.NETHERITE, 1, -2.8F, (new Item.Properties().durability(1800)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<PickaxeItem> ENDDYEMONDPICKAXE = ITEMS.register("enddyemondpickaxe", () -> new PickaxeItem(Tiers.NETHERITE, 1, -2.8F, (new Item.Properties().durability(1800)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<PickaxeItem> LUXDYEMONDPICKAXE = ITEMS.register("luxdyemondpickaxe", () -> new PickaxeItem(Tiers.NETHERITE, 1, -2.8F, (new Item.Properties().durability(1800)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<PickaxeItem> OBSIDIEANPICKAXE = ITEMS.register("obsidieanpickaxe", () -> new PickaxeItem(Tiers.DIAMOND, 1, -2.8F, (new Item.Properties()).tab(ModItemGroup.PUN_MOD)));
     
     public static void init() {
         BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());

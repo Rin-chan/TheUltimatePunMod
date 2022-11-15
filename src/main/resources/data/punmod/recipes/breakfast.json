@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PEP",
+        " S ",
+        " S "
+    ],
+    "key": {
+	    "P": {
+	        "item": "minecraft:porkchop"
+	    },
+	    "E": {
+	        "item": "minecraft:egg"
+	    },
+	    "S": {
+	      	"item": "minecraft:stick"
+  		}
+    },
+    "result": {
+        "item": "punmod:breakfast"
+    }
+}

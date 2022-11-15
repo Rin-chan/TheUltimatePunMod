@@ -59,13 +59,13 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ✔ End Dyemond Axe<br>
         ✔ Lux Dyemond Axe<br>
         ✔ Obsi-Die-an Axe<br>
-        ❌ Bat-le Pickaxe<br>
-        ❌ BreakFast<br>
-        ❌ Dyemond Pickaxe<br>
-        ❌ Nether Dyemond Pickaxe<br>
-        ❌ End Dyemond Pickaxe<br>
-        ❌ Lux Dyemond Pickaxe<br>
-        ❌ Obsi-Die-an Pickaxe<br>
+        ✔ Bat-le Pickaxe<br>
+        ✔ BreakFast<br>
+        ✔ Dyemond Pickaxe<br>
+        ✔ Nether Dyemond Pickaxe<br>
+        ✔ End Dyemond Pickaxe<br>
+        ✔ Lux Dyemond Pickaxe<br>
+        ✔ Obsi-Die-an Pickaxe<br>
         ❌ Bat-le Shovel<br>
         ❌ Dyemond Shovel<br>
         ❌ Nether Dyemond Shovel<br>

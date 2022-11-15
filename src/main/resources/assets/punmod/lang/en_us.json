@@ -35,5 +35,13 @@
 	"item.punmod.netherdyemondaxe": "Nether Dyemond Axe",
 	"item.punmod.enddyemondaxe": "End Dyemond Axe",
 	"item.punmod.luxdyemondaxe": "Lux Dyemond Axe",
-	"item.punmod.obsidieanaxe": "Obsi-Die-An Axe"
+	"item.punmod.obsidieanaxe": "Obsi-Die-An Axe",
+	
+	"item.punmod.batlepickaxe": "Bat-le Pickaxe",
+	"item.punmod.breakfast": "BreakFast",
+	"item.punmod.dyemondpickaxe": "Dyemond Pickaxe",
+	"item.punmod.netherdyemondpickaxe": "Nether Dyemond Pickaxe",
+	"item.punmod.enddyemondpickaxe": "End Dyemond Pickaxe",
+	"item.punmod.luxdyemondpickaxe": "Lux Dyemond Pickaxe",
+	"item.punmod.obsidieanpickaxe": "Obsi-Die-An Pickaxe"
 }
