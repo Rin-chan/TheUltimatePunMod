@@ -22,7 +22,10 @@ import github.Rin_Chan.Punmod.item.RedstoneOreppleItem;
 import github.Rin_Chan.Punmod.item.SandorceryItem;
 import github.Rin_Chan.Punmod.item.TheStoneOfMiteItem;
 import github.Rin_Chan.Punmod.item.TheUltimateBlockItem;
+import net.minecraft.world.item.AxeItem;
+import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.Tiers;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
@@ -62,6 +65,13 @@ public class ItemRegistry {
     public static final RegistryObject<MorningStarItem> MORNINGSTAR = ITEMS.register("morningstar", MorningStarItem::new);
     public static final RegistryObject<Item> OBSIDIEANSHARDS = ITEMS.register("obsidieanshards", () -> new Item(new Item.Properties().tab(ModItemGroup.PUN_MOD)));
     public static final RegistryObject<TheUltimateBlockItem> THEULTIMATEBLOCK = ITEMS.register("theultimateblock", TheUltimateBlockItem::new);
+    
+    public static final RegistryObject<AxeItem> BATLEAXE = ITEMS.register("batleaxe", () -> new AxeItem(Tiers.IRON, 6.0F, -2.6F,(new Item.Properties().durability(750)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<AxeItem> DYEMONDAXE = ITEMS.register("dyemondaxe", () -> new AxeItem(Tiers.DIAMOND, 5.0F, -3.1F, (new Item.Properties().durability(1800)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<AxeItem> NETHERDYEMONDAXE = ITEMS.register("netherdyemondaxe", () -> new AxeItem(Tiers.NETHERITE, 4.5F, -3.0F, (new Item.Properties().durability(1800)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<AxeItem> ENDDYEMONDAXE = ITEMS.register("enddyemondaxe", () -> new AxeItem(Tiers.NETHERITE, 4.5F, -3.0F, (new Item.Properties().durability(1800)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<AxeItem> LUXDYEMONDAXE = ITEMS.register("luxdyemondaxe", () -> new AxeItem(Tiers.NETHERITE, 4.5F, -3.0F, (new Item.Properties().durability(1800)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<AxeItem> OBSIDIEANAXE = ITEMS.register("obsidieanaxe", () -> new AxeItem(Tiers.DIAMOND, 5.0F, -3.2F, (new Item.Properties()).tab(ModItemGroup.PUN_MOD)));
     
     public static void init() {
         BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());

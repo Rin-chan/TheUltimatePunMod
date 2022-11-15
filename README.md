@@ -53,12 +53,12 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ✔ Flying Pan<br>
         ✔ Flee Bag (Not yet added to dungeon chest)<br>
         ✔ Sand-orcery (No functionality yet)<br>
-        ❌ Bat-le Axe<br>
-        ❌ Dyemond Axe<br>
-        ❌ Nether Dyemond Axe<br>
-        ❌ End Dyemond Axe<br>
-        ❌ Lux Dyemond Axe<br>
-        ❌ Obsi-Die-an Axe<br>
+        ✔ Bat-le Axe<br>
+        ✔ Dyemond Axe<br>
+        ✔ Nether Dyemond Axe<br>
+        ✔ End Dyemond Axe<br>
+        ✔ Lux Dyemond Axe<br>
+        ✔ Obsi-Die-an Axe<br>
         ❌ Bat-le Pickaxe<br>
         ❌ BreakFast<br>
         ❌ Dyemond Pickaxe<br>

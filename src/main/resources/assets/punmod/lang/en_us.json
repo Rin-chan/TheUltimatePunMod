@@ -28,5 +28,12 @@
 	"item.punmod.mint": "Mint",
 	"item.punmod.morningstar": "Morning Star",
 	"item.punmod.obsidieanshards": "Obsi-Die-An Shards",
-	"item.punmod.theultimateblock": "The Ultimate Block"
+	"item.punmod.theultimateblock": "The Ultimate Block",
+	
+	"item.punmod.batleaxe": "Bat-le Axe",
+	"item.punmod.dyemondaxe": "Dyemond Axe",
+	"item.punmod.netherdyemondaxe": "Nether Dyemond Axe",
+	"item.punmod.enddyemondaxe": "End Dyemond Axe",
+	"item.punmod.luxdyemondaxe": "Lux Dyemond Axe",
+	"item.punmod.obsidieanaxe": "Obsi-Die-An Axe"
 }
