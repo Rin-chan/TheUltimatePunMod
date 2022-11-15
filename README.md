@@ -7,7 +7,7 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
 <details>
     <summary>To Do List:</summary>
     <details>
-        <summary>Blocks</summary>
+        <summary>❌ Blocks</summary>
         ❌ Fr-Ore-Zen Iron<br>
         ❌ Fr-Ore-Zen Gold<br>
         ❌ Fr-Ore-Zen Bones<br>
@@ -23,7 +23,7 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ❌ D-ice-mention Portal
     </details>
     <details>
-        <summary>Materials</summary>
+        <summary>❌ Materials</summary>
         ✔ Hard Boiled Egg<br>
         ✔ Bat Fur (Currently does not drop from bats)<br>
         ✔ Bat-le Iron<br>
@@ -36,7 +36,7 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ✔ D-ice-mond Orb
     </details>
     <details>
-        <summary>Foods</summary>
+        <summary>✔ Foods</summary>
         ✔ French Frice<br>
         ✔ Iron Orepple<br>
         ✔ Coal Orepple<br>
@@ -48,7 +48,7 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ✔ Dyemond Orepple
     </details>
     <details>
-        <summary>Tools</summary>
+        <summary>❌ Tools</summary>
         ✔ The Stone of Mite<br>
         ✔ Flying Pan<br>
         ✔ Flee Bag (Not yet added to dungeon chest)<br>
@@ -80,7 +80,7 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ✔ Obsi-Die-an Hoe
     </details>
     <details>
-        <summary>Weapons</summary>
+        <summary>❌ Weapons</summary>
         ❌ Crossbow<br>
         ❌ Eggsterminator<br>
         ❌ Spearmint<br>
@@ -109,16 +109,17 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ❌ Bedder Sword
     </details>
     <details>
-        <summary>Armors (Helmet, Chestplate, Legging, Boots)</summary>
-        ❌ Bat-le Suit<br>
-        ❌ Dyemond Suit<br>
-        ❌ Nether Dyemond Suit<br>
-        ❌ End Dyemond Suit<br>
-        ❌ Lux Dyemond Suit<br>
-        ❌ Obsi-Die-an Suit
+        <summary>❌ Armors (Helmet, Chestplate, Legging, Boots)</summary>
+        ALL APPEARANCES TEXTURES ARE INCOMPLETE<br>
+        ✔ Bat-le Suit<br>
+        ❌ Dyemond Suit (Missing funtionality)<br>
+        ❌ Nether Dyemond Suit (Missing funtionality, missing crafting)<br>
+        ❌ End Dyemond Suit (Missing funtionality, missing crafting)<br>
+        ❌ Lux Dyemond Suit (Missing funtionality, missing crafting)<br>
+        ✔ Obsi-Die-an Suit
     </details>
     <details>
-        <summary>Mobs</summary>
+        <summary>❌ Mobs</summary>
         ❌ A-bomb-nible Snowman<br>
         ❌ Flicing<br>
         ❌ FrostBiter<br>
@@ -139,7 +140,7 @@ First time coding in Java and creating a Minecraft mod so the codes are not opti
         ❌ Daybreak-er
     </details>
     <details>
-        <summary>Dimension</summary>
+        <summary>❌ Dimension</summary>
         ❌ D-ice-mention
     </details>
 </details>

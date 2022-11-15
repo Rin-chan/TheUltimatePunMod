@@ -57,5 +57,35 @@
 	"item.punmod.netherdyemondhoe": "Nether Dyemond Hoe",
 	"item.punmod.enddyemondhoe": "End Dyemond Hoe",
 	"item.punmod.luxdyemondhoe": "Lux Dyemond Hoe",
-	"item.punmod.obsidieanhoe": "Obsi-Die-An Hoe"
+	"item.punmod.obsidieanhoe": "Obsi-Die-An Hoe",
+	
+	"item.punmod.batlehelmet": "Bat-le Helmet",
+	"item.punmod.batlechestplate": "Bat-le Chestplate",
+	"item.punmod.batleleggings": "Bat-le Leggings",
+	"item.punmod.batleboots": "Bat-le Boots",
+	
+	"item.punmod.dyemondhelmet": "Dyemond Helmet",
+	"item.punmod.dyemondchestplate": "Dyemond Chestplate",
+	"item.punmod.dyemondleggings": "Dyemond Leggings",
+	"item.punmod.dyemondboots": "Dyemond Boots",
+	
+	"item.punmod.netherdyemondhelmet": "Nether Dyemond Helmet",
+	"item.punmod.netherdyemondchestplate": "Nether Dyemond Chestplate",
+	"item.punmod.netherdyemondleggings": "Nether Dyemond Leggings",
+	"item.punmod.netherdyemondboots": "Nether Dyemond Boots",
+	
+	"item.punmod.enddyemondhelmet": "End Dyemond Helmet",
+	"item.punmod.enddyemondchestplate": "End Dyemond Chestplate",
+	"item.punmod.enddyemondleggings": "End Dyemond Leggings",
+	"item.punmod.enddyemondboots": "End Dyemond Boots",
+	
+	"item.punmod.luxdyemondhelmet": "Lux Dyemond Helmet",
+	"item.punmod.luxdyemondchestplate": "Lux Dyemond Chestplate",
+	"item.punmod.luxdyemondleggings": "Lux Dyemond Leggings",
+	"item.punmod.luxdyemondboots": "Lux Dyemond Boots",
+	
+	"item.punmod.obsidieanhelmet": "Obsi-Die-An Helmet",
+	"item.punmod.obsidieanchestplate": "Obsi-Die-An Chestplate",
+	"item.punmod.obsidieanleggings": "Obsi-Die-An Leggings",
+	"item.punmod.obsidieanboots": "Obsi-Die-An Boots"
 }

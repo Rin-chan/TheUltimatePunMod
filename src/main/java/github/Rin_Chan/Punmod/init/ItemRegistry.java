@@ -30,7 +30,11 @@ import github.Rin_Chan.Punmod.item.MintItem;
 import github.Rin_Chan.Punmod.item.ModItemGroup;
 import github.Rin_Chan.Punmod.item.MorningStarItem;
 import github.Rin_Chan.Punmod.item.NetherDyemondAxeItem;
+import github.Rin_Chan.Punmod.item.NetherDyemondBootsItem;
+import github.Rin_Chan.Punmod.item.NetherDyemondChestplateItem;
+import github.Rin_Chan.Punmod.item.NetherDyemondHelmetItem;
 import github.Rin_Chan.Punmod.item.NetherDyemondHoeItem;
+import github.Rin_Chan.Punmod.item.NetherDyemondLeggingsItem;
 import github.Rin_Chan.Punmod.item.NetherDyemondPickaxeItem;
 import github.Rin_Chan.Punmod.item.NetherDyemondShovelItem;
 import github.Rin_Chan.Punmod.item.RainbowItem;
@@ -38,6 +42,9 @@ import github.Rin_Chan.Punmod.item.RedstoneOreppleItem;
 import github.Rin_Chan.Punmod.item.SandorceryItem;
 import github.Rin_Chan.Punmod.item.TheStoneOfMiteItem;
 import github.Rin_Chan.Punmod.item.TheUltimateBlockItem;
+import net.minecraft.world.entity.EquipmentSlot;
+import net.minecraft.world.item.ArmorItem;
+import net.minecraft.world.item.ArmorMaterials;
 import net.minecraft.world.item.AxeItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.HoeItem;
@@ -113,6 +120,36 @@ public class ItemRegistry {
     public static final RegistryObject<EndDyemondHoeItem> ENDDYEMONDHOE = ITEMS.register("enddyemondhoe", EndDyemondHoeItem::new);
     public static final RegistryObject<LuxDyemondHoeItem> LUXDYEMONDHOE = ITEMS.register("luxdyemondhoe", LuxDyemondHoeItem::new);
     public static final RegistryObject<HoeItem> OBSIDIEANHOE = ITEMS.register("obsidieanhoe", () -> new HoeItem(Tiers.DIAMOND, -3, 0.0F, (new Item.Properties()).tab(ModItemGroup.PUN_MOD)));
+    
+    public static final RegistryObject<ArmorItem> BATLEHELMET = ITEMS.register("batlehelmet", () -> new ArmorItem(ArmorMaterials.IRON, EquipmentSlot.HEAD, (new Item.Properties().durability(225)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> BATLECHESTPLATE = ITEMS.register("batlechestplate", () -> new ArmorItem(ArmorMaterials.IRON, EquipmentSlot.CHEST, (new Item.Properties().durability(300)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> BATLELEGGINGS = ITEMS.register("batleleggings", () -> new ArmorItem(ArmorMaterials.IRON, EquipmentSlot.LEGS, (new Item.Properties().durability(285)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> BATLEBOOTS = ITEMS.register("batleboots", () -> new ArmorItem(ArmorMaterials.IRON, EquipmentSlot.FEET, (new Item.Properties().durability(255)).tab(ModItemGroup.PUN_MOD)));
+
+    public static final RegistryObject<ArmorItem> DYEMONDHELMET = ITEMS.register("dyemondhelmet", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.HEAD, (new Item.Properties().durability(383)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> DYEMONDCHESTPLATE = ITEMS.register("dyemondchestplate", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.CHEST, (new Item.Properties().durability(548)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> DYEMONDLEGGINGS = ITEMS.register("dyemondleggings", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.LEGS, (new Item.Properties().durability(515)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> DYEMONDBOOTS = ITEMS.register("dyemondboots", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.FEET, (new Item.Properties().durability(449)).tab(ModItemGroup.PUN_MOD)));
+    
+    public static final RegistryObject<NetherDyemondHelmetItem> NETHERDYEMONDHELMET = ITEMS.register("netherdyemondhelmet", NetherDyemondHelmetItem::new);
+    public static final RegistryObject<NetherDyemondChestplateItem> NETHERDYEMONDCHESTPLATE = ITEMS.register("netherdyemondchestplate", NetherDyemondChestplateItem::new);
+    public static final RegistryObject<NetherDyemondLeggingsItem> NETHERDYEMONDLEGGINGS = ITEMS.register("netherdyemondleggings", NetherDyemondLeggingsItem::new);
+    public static final RegistryObject<NetherDyemondBootsItem> NETHERDYEMONDBOOTS = ITEMS.register("netherdyemondboots", NetherDyemondBootsItem::new);
+    
+    public static final RegistryObject<ArmorItem> ENDDYEMONDHELMET = ITEMS.register("enddyemondhelmet", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.HEAD, (new Item.Properties().durability(383)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> ENDDYEMONDCHESTPLATE = ITEMS.register("enddyemondchestplate", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.CHEST, (new Item.Properties().durability(548)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> ENDDYEMONDLEGGINGS = ITEMS.register("enddyemondleggings", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.LEGS, (new Item.Properties().durability(515)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> ENDDYEMONDBOOTS = ITEMS.register("enddyemondboots", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.FEET, (new Item.Properties().durability(449)).tab(ModItemGroup.PUN_MOD)));
+    
+    public static final RegistryObject<ArmorItem> LUXDYEMONDHELMET = ITEMS.register("luxdyemondhelmet", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.HEAD, (new Item.Properties().durability(383)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> LUXDYEMONDCHESTPLATE = ITEMS.register("luxdyemondchestplate", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.CHEST, (new Item.Properties().durability(548)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> LUXDYEMONDLEGGINGS = ITEMS.register("luxdyemondleggings", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.LEGS, (new Item.Properties().durability(515)).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> LUXDYEMONDBOOTS = ITEMS.register("luxdyemondboots", () -> new ArmorItem(ArmorMaterials.DIAMOND, EquipmentSlot.FEET, (new Item.Properties().durability(449)).tab(ModItemGroup.PUN_MOD)));
+    
+    public static final RegistryObject<ArmorItem> OBSIDIEANHELMET = ITEMS.register("obsidieanhelmet", () -> new ArmorItem(ArmorMaterials.IRON, EquipmentSlot.HEAD, (new Item.Properties()).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> OBSIDIEANCHESTPLATE = ITEMS.register("obsidieanchestplate", () -> new ArmorItem(ArmorMaterials.IRON, EquipmentSlot.CHEST, (new Item.Properties()).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> OBSIDIEANLEGGINGS = ITEMS.register("obsidieanleggings", () -> new ArmorItem(ArmorMaterials.IRON, EquipmentSlot.LEGS, (new Item.Properties()).tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<ArmorItem> OBSIDIEANBOOTS = ITEMS.register("obsidieanboots", () -> new ArmorItem(ArmorMaterials.IRON, EquipmentSlot.FEET, (new Item.Properties()).tab(ModItemGroup.PUN_MOD)));
     
     public static void init() {
         BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
