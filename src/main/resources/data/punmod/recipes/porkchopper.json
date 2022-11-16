@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "PPP",
+        " S "
+    ],
+    "key": {
+	    "P": {
+	        "item": "minecraft:porkchop"
+	    },
+		"S": {
+			"item": "minecraft:stick"
+		}
+    },
+    "result": {
+        "item": "punmod:porkchopper"
+    }
+}

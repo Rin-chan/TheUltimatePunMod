@@ -83,13 +83,13 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Spearmint (No functionality yet)<br>
         ✔ Steal Knife (No functionality yet)<br>
         ✔ Bown (No functionality yet)<br>
-        ❌ Obsi-Die-an Bow<br>
-        ❌ Hammer<br>
-        ❌ Canink<br>
-        ❌ Tentacannon<br>
-        ❌ Icesickle<br>
+        ✔ Obsi-Die-an Bow (No functionality yet)<br>
+        ✔ Hammer (No functionality yet)<br>
+        ✔ Canink (No functionality yet)<br>
+        ✔ Tentacannon (No functionality yet)<br>
+        ✔ Icesickle (No functionality yet, currently does not drop from mobs)<br>
         ✔ Flamethwooler (No functionality yet)<br>
-        ❌ Pork Chopper<br>
+        ✔ Pork Chopper (No functionality yet)<br>
         ❌ Holey Sword<br>
         ❌ Piece Maker<br>
         ❌ Pane Maker<br>

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WW ",
+        "WWW",
+        " WI"
+    ],
+    "key": {
+	    "W": {
+	        "item": "minecraft:water_bucket"
+	    },
+		"I": {
+			"item": "minecraft:ink_sac"
+		}
+    },
+    "result": {
+        "item": "punmod:canink"
+    }
+}

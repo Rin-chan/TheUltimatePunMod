@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OBO",
+        "OOO"
+    ],
+    "key": {
+	    "B": {
+	        "item": "minecraft:bow"
+	    },
+		"O": {
+			"item": "punmod:obsidieanshards"
+		}
+    },
+    "result": {
+        "item": "punmod:obsidieanbow"
+    }
+}
