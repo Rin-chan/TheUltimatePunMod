@@ -27,8 +27,8 @@ public enum ModArmorMaterial implements ArmorMaterial {
    LUXDYEMOND(PunMod.MODID + ":luxdyemond", 33, new int[]{3, 6, 8, 3}, 10, SoundEvents.ARMOR_EQUIP_DIAMOND, 0.0F, 0.0F, () -> {
       return Ingredient.of(Items.DIAMOND);
    }),
-   OBSIDIEAN(PunMod.MODID + ":obsidiean", 15, new int[]{2, 5, 6, 2}, 9, SoundEvents.ARMOR_EQUIP_IRON, 0.0F, 0.0F, () -> {
-      return Ingredient.of(Items.IRON_INGOT);
+   OBSIDIEAN(PunMod.MODID + ":obsidiean", 37, new int[]{3, 6, 8, 3}, 15, SoundEvents.ARMOR_EQUIP_NETHERITE, 3.0F, 0.1F, () -> {
+      return Ingredient.of(Items.NETHERITE_INGOT);
    });
 
    private static final int[] HEALTH_PER_SLOT = new int[]{13, 15, 16, 11};
