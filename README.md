@@ -110,9 +110,9 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ALL APPEARANCES TEXTURES ARE INCOMPLETE<br>
         ✔ Bat-le Suit<br>
         ❌ Dyemond Suit (Missing funtionality)<br>
-        ❌ Nether Dyemond Suit (Missing funtionality, missing crafting)<br>
-        ❌ End Dyemond Suit (Missing funtionality, missing crafting)<br>
-        ❌ Lux Dyemond Suit (Missing funtionality, missing crafting)<br>
+        ❌ Nether Dyemond Suit (Missing funtionality)<br>
+        ❌ End Dyemond Suit (Missing funtionality)<br>
+        ❌ Lux Dyemond Suit (Missing funtionality)<br>
         ✔ Obsi-Die-an Suit
     </details>
     <details>
