@@ -1,8 +1,5 @@
 # The Ultimate Pun Mod (1.18.2)
-A (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1294446-the-ultimate-pun-mod-updated-aug-2015) by Gibby008.
-
-#### Note:
-First time coding in Java and creating a Minecraft mod so the codes are not optimized and helpful advice would be appreciated.
+An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1294446-the-ultimate-pun-mod-updated-aug-2015) by Gibby008.
 
 <details>
     <summary>To Do List:</summary>
