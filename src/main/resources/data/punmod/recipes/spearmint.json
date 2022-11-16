@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " M ",
+        " M ",
+        " I "
+    ],
+    "key": {
+	    "M": {
+	        "item": "punmod:mint"
+	    },
+	    "I": {
+	      	"item": "minecraft:iron_ingot"
+  		}
+    },
+    "result": {
+        "item": "punmod:spearmint",
+        "count": 3
+    }
+}

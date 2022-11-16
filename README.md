@@ -28,7 +28,6 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ The Ultimate Block<br>
         ✔ Dyemond<br>
         ✔ Obsi-Die-an Shards (Unobtainable ATM)<br>
-        ✔ Rainbow (No functionality yet)<br>
         ✔ Droplet<br>
         ✔ D-ice-mond Orb
     </details>
@@ -46,6 +45,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
     </details>
     <details>
         <summary>❌ Tools</summary>
+        ✔ Rainbow (No functionality yet)<br>
         ✔ The Stone of Mite<br>
         ✔ Flying Pan<br>
         ✔ Flee Bag (Not yet added to dungeon chest)<br>
@@ -78,11 +78,11 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
     </details>
     <details>
         <summary>❌ Weapons</summary>
-        ❌ Crossbow<br>
-        ❌ Eggsterminator<br>
-        ❌ Spearmint<br>
-        ❌ Steal Knife<br>
-        ❌ Bown<br>
+        ✔ Crossbow (No functionality yet)<br>
+        ✔ Eggsterminator (No functionality yet)<br>
+        ✔ Spearmint (No functionality yet)<br>
+        ✔ Steal Knife (No functionality yet)<br>
+        ✔ Bown (No functionality yet)<br>
         ❌ Obsi-Die-an Bow<br>
         ❌ Hammer<br>
         ❌ Canink<br>

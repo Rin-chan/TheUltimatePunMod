@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "F  ",
+        "III"
+    ],
+    "key": {
+	    "I": {
+	        "item": "minecraft:iron_ingot"
+	    },
+	    "F": {
+	      	"item": "minecraft:feather"
+  		}
+    },
+    "result": {
+        "item": "punmod:eggsterminator"
+    }
+}
