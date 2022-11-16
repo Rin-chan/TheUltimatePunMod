@@ -109,10 +109,10 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         <summary>❌ Armors (Helmet, Chestplate, Legging, Boots)</summary>
         ALL APPEARANCES TEXTURES ARE INCOMPLETE<br>
         ✔ Bat-le Suit<br>
-        ❌ Dyemond Suit (Missing funtionality)<br>
-        ❌ Nether Dyemond Suit (Missing funtionality)<br>
-        ❌ End Dyemond Suit (Missing funtionality)<br>
-        ❌ Lux Dyemond Suit (Missing funtionality)<br>
+        ✔ Dyemond Suit (Missing funtionality)<br>
+        ✔ Nether Dyemond Suit (Missing funtionality)<br>
+        ✔ End Dyemond Suit (Missing funtionality)<br>
+        ✔ Lux Dyemond Suit (Missing funtionality)<br>
         ✔ Obsi-Die-an Suit
     </details>
     <details>
