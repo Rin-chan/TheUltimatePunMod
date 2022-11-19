@@ -90,12 +90,12 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Icesickle (No functionality yet, currently does not drop from mobs)<br>
         ✔ Flamethwooler (No functionality yet)<br>
         ✔ Pork Chopper (No functionality yet)<br>
-        ❌ Holey Sword<br>
-        ❌ Piece Maker<br>
-        ❌ Pane Maker<br>
-        ❌ The Grater Sword<br>
-        ❌ Bat-le Sword<br>
-        ❌ Mints-er<br>
+        ✔ Holey Sword (No functionality yet)<br>
+        ✔ Piece Maker (No functionality yet)<br>
+        ✔ Pane Maker (No functionality yet)<br>
+        ✔ The Grater Sword (No functionality yet)<br>
+        ✔ Bat-le Sword (No functionality yet)<br>
+        ✔ Mints-er (No functionality yet)<br>
         ❌ Dyemond Sword<br>
         ❌ Nether Dyemond Sword<br>
         ❌ End Dyemond Sword<br>
@@ -144,8 +144,6 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
 
 ## Credit:
 Coder: Rin-chan<br>
-Sounds: Gibby008<br>
-Modeler: Gibby008<br>
-Texturer: Gibby008<br>
+Texturer: Gibby008 and Rin-chan<br>
 <br>
 Please DM me on Discord(Rin#2739) for any issues relating to credit or ownership.
