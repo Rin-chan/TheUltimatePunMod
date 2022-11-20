@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        " S ",
+        " T "
+    ],
+    "key": {
+	    "S": {
+	        "item": "minecraft:sponge"
+	    },
+	    "T": {
+	      	"item": "minecraft:stick"
+  		}
+    },
+    "result": {
+        "item": "punmod:holeysword"
+    }
+}

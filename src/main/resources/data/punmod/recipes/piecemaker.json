@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "FFF",
+        "FDF",
+        "FFF"
+    ],
+    "key": {
+	    "F": {
+	        "item": "minecraft:feather"
+	    },
+	    "D": {
+	      	"item": "minecraft:diamond_sword"
+  		}
+    },
+    "result": {
+        "item": "punmod:piecemaker"
+    }
+}

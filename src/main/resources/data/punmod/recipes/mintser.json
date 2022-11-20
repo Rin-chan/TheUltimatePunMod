@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "MIM",
+        "MIM",
+        "MSM"
+    ],
+    "key": {
+	    "I": {
+	        "item": "minecraft:iron_ingot"
+	    },
+	    "S": {
+	      	"item": "minecraft:stick"
+  		},
+  		"M": {
+  			"item": "punmod:mint"
+  		}
+    },
+    "result": {
+        "item": "punmod:mintser"
+    }
+}

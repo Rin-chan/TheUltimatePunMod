@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GGG",
+        " S "
+    ],
+    "key": {
+	    "G": {
+	        "item": "minecraft:glass_pane"
+	    },
+	    "S": {
+	      	"item": "minecraft:stick"
+  		}
+    },
+    "result": {
+        "item": "punmod:panemaker"
+    }
+}

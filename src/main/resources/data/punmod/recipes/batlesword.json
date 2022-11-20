@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " B ",
+        " B ",
+        " S "
+    ],
+    "key": {
+	    "B": {
+	        "item": "punmod:batleiron"
+	    },
+	    "S": {
+	      	"item": "minecraft:stick"
+  		}
+    },
+    "result": {
+        "item": "punmod:batlesword"
+    }
+}
