@@ -96,14 +96,14 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ The Grater Sword (No functionality yet)<br>
         ✔ Bat-le Sword (No functionality yet)<br>
         ✔ Mints-er (No functionality yet)<br>
-        ❌ Dyemond Sword<br>
-        ❌ Nether Dyemond Sword<br>
-        ❌ End Dyemond Sword<br>
-        ❌ Lux Dyemond Sword<br>
-        ❌ Obsi-Die-an Sword<br>
-        ❌ Punisher<br>
-        ❌ Arctcut<br>
-        ❌ Bedder Sword
+        ✔ Dyemond Sword<br>
+        ✔ Nether Dyemond Sword (No functionality yet)<br>
+        ✔ End Dyemond Sword (No functionality yet)<br>
+        ✔ Lux Dyemond Sword (No functionality yet)<br>
+        ✔ Obsi-Die-an Sword<br>
+        ✔ Punisher (No functionality yet)<br>
+        ✔ Arctcut (No functionality yet, currently does not drop from mobs)<br>
+        ✔ Bedder Sword (No functionality yet)
     </details>
     <details>
         <summary>❌ Armors (Helmet, Chestplate, Legging, Boots)</summary>

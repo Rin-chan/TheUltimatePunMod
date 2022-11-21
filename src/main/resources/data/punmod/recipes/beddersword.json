@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "MBM",
+        "MBM",
+        "MSM"
+    ],
+    "key": {
+	    "M": {
+	        "item": "punmod:morningstar"
+	    },
+	    "S": {
+	      	"item": "minecraft:stick"
+  		},
+  		"B": {
+  			"item": "minecraft:white_bed"
+		}
+    },
+    "result": {
+        "item": "punmod:beddersword"
+    }
+}

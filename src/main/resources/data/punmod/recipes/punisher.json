@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "punmod:netherdyemondsword"
+    },
+    {
+      "item": "punmod:netherdyemondsword"
+    },
+    {
+      "item": "punmod:netherdyemondsword"
+    },
+    {
+      "item": "punmod:enddyemondsword"
+    },
+    {
+      "item": "punmod:enddyemondsword"
+    },
+    {
+      "item": "punmod:enddyemondsword"
+    },
+    {
+      "item": "punmod:luxdyemondsword"
+    },
+    {
+      "item": "punmod:luxdyemondsword"
+    },
+    {
+      "item": "punmod:luxdyemondsword"
+    }
+  ],
+  "result": {
+    "item": "punmod:punisher"
+  }
+}
