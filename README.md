@@ -91,7 +91,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Flamethwooler (No functionality yet)<br>
         ✔ Pork Chopper (No functionality yet)<br>
         ✔ Holey Sword (No functionality yet)<br>
-        ✔ Piece Maker (No functionality yet)<br>
+        ✔ Piece Maker<br>
         ✔ Pane Maker (No functionality yet)<br>
         ✔ The Grater Sword (No functionality yet)<br>
         ✔ Bat-le Sword<br>
