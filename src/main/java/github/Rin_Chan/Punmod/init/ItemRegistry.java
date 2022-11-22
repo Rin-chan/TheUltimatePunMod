@@ -3,7 +3,6 @@ package github.Rin_Chan.Punmod.init;
 import github.Rin_Chan.Punmod.PunMod;
 import github.Rin_Chan.Punmod.item.ArctcutItem;
 import github.Rin_Chan.Punmod.item.BatleOreppleItem;
-import github.Rin_Chan.Punmod.item.BatleSwordItem;
 import github.Rin_Chan.Punmod.item.BedderSwordItem;
 import github.Rin_Chan.Punmod.item.BownItem;
 import github.Rin_Chan.Punmod.item.CaninkItem;
@@ -115,7 +114,7 @@ public class ItemRegistry {
     public static final RegistryObject<TentacannonItem> TENTACANNON = ITEMS.register("tentacannon", TentacannonItem::new);
     public static final RegistryObject<ObsidieanBowItem> OBSIDIEANBOW = ITEMS.register("obsidieanbow", ObsidieanBowItem::new);
     public static final RegistryObject<PorkChopperItem> PORKCHOPPER = ITEMS.register("porkchopper", PorkChopperItem::new);
-    public static final RegistryObject<BatleSwordItem> BATLESWORD = ITEMS.register("batlesword", BatleSwordItem::new);
+    public static final RegistryObject<SwordItem> BATLESWORD = ITEMS.register("batlesword", () -> new SwordItem(Tiers.IRON, 3, -2.4F, (new Item.Properties().durability(750)).tab(ModItemGroup.PUN_MOD)));
     public static final RegistryObject<HoleySwordItem> HOLEYSWORD = ITEMS.register("holeysword", HoleySwordItem::new);
     public static final RegistryObject<MintserItem> MINTSER = ITEMS.register("mintser", MintserItem::new);
     public static final RegistryObject<PaneMakerItem> PANEMAKER = ITEMS.register("panemaker", PaneMakerItem::new);

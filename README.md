@@ -94,12 +94,12 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Piece Maker (No functionality yet)<br>
         ✔ Pane Maker (No functionality yet)<br>
         ✔ The Grater Sword (No functionality yet)<br>
-        ✔ Bat-le Sword (No functionality yet)<br>
-        ✔ Mints-er (No functionality yet)<br>
+        ✔ Bat-le Sword<br>
+        ✔ Mints-er<br>
         ✔ Dyemond Sword<br>
-        ✔ Nether Dyemond Sword (No functionality yet)<br>
-        ✔ End Dyemond Sword (No functionality yet)<br>
-        ✔ Lux Dyemond Sword (No functionality yet)<br>
+        ✔ Nether Dyemond Sword<br>
+        ✔ End Dyemond Sword<br>
+        ✔ Lux Dyemond Sword<br>
         ✔ Obsi-Die-an Sword<br>
         ✔ Punisher (No functionality yet)<br>
         ✔ Arctcut (No functionality yet, currently does not drop from mobs)<br>
@@ -144,6 +144,6 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
 
 ## Credit:
 Coder: Rin-chan<br>
-Texturer: Gibby008 and Rin-chan<br>
+Texturer: Gibby008 (Items) and Rin-chan (Armor)<br>
 <br>
 Please DM me on Discord(Rin#2739) for any issues relating to credit or ownership.
