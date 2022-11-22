@@ -92,7 +92,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Pork Chopper (No functionality yet)<br>
         ✔ Holey Sword (No functionality yet)<br>
         ✔ Piece Maker<br>
-        ✔ Pane Maker (No functionality yet)<br>
+        ✔ Pane Maker<br>
         ✔ The Grater Sword (No functionality yet)<br>
         ✔ Bat-le Sword<br>
         ✔ Mints-er<br>
