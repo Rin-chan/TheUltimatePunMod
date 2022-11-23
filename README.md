@@ -90,7 +90,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Icesickle (No functionality yet, currently does not drop from mobs)<br>
         ✔ Flamethwooler (No functionality yet)<br>
         ✔ Pork Chopper (No functionality yet)<br>
-        ✔ Holey Sword (No functionality yet)<br>
+        ✔ Holey Sword<br>
         ✔ Piece Maker<br>
         ✔ Pane Maker<br>
         ✔ The Grater Sword (No functionality yet)<br>
@@ -103,7 +103,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Obsi-Die-an Sword<br>
         ✔ Punisher (No functionality yet)<br>
         ✔ Arctcut (No functionality yet, currently does not drop from mobs)<br>
-        ✔ Bedder Sword (No functionality yet)
+        ✔ Bedder Sword
     </details>
     <details>
         <summary>❌ Armors (Helmet, Chestplate, Legging, Boots)</summary>
