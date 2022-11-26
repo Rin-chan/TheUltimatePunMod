@@ -10,11 +10,12 @@ import net.minecraft.world.item.Items;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.phys.EntityHitResult;
 
-public class DamageFeatherProjectile extends ThrowableItemProjectile {
-	int damageFromProjectile = 4;
+public class DamageSnowballProjectile extends ThrowableItemProjectile {
+	int damageFromProjectile = 0;
 	
-	public DamageFeatherProjectile(Level level, LivingEntity player) {
+	public DamageSnowballProjectile(Level level, LivingEntity player, int damage) {
 		super(EntityType.SNOWBALL, player, level);
+		this.damageFromProjectile = damage;
 	}
 	
 	@Override
