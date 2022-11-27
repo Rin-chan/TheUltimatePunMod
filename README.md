@@ -89,7 +89,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Tentacannon (No functionality yet)<br>
         ✔ Icesickle (No functionality yet, currently does not drop from mobs)<br>
         ✔ Flamethwooler (No functionality yet)<br>
-        ✔ Pork Chopper (No functionality yet)<br>
+        ✔ Pork Chopper<br>
         ✔ Holey Sword<br>
         ✔ Piece Maker<br>
         ✔ Pane Maker<br>
