@@ -2,13 +2,10 @@ package github.Rin_Chan.Punmod;
 
 import github.Rin_Chan.Punmod.init.EventRegistry;
 import github.Rin_Chan.Punmod.init.ItemRegistry;
+import github.Rin_Chan.Punmod.util.ModItemProperties;
 
 import com.mojang.logging.LogUtils;
 
-import net.minecraft.world.effect.MobEffectInstance;
-import net.minecraft.world.effect.MobEffects;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.TickEvent.Phase;
 import net.minecraftforge.event.TickEvent.PlayerTickEvent;

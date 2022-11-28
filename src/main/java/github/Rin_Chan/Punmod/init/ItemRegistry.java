@@ -39,7 +39,6 @@ import github.Rin_Chan.Punmod.item.LuxDyemondSwordItem;
 import github.Rin_Chan.Punmod.item.MintItem;
 import github.Rin_Chan.Punmod.item.MintserItem;
 import github.Rin_Chan.Punmod.item.ModArmorMaterial;
-import github.Rin_Chan.Punmod.item.ModItemGroup;
 import github.Rin_Chan.Punmod.item.MorningStarItem;
 import github.Rin_Chan.Punmod.item.NetherDyemondAxeItem;
 import github.Rin_Chan.Punmod.item.NetherDyemondBootsItem;
@@ -65,6 +64,7 @@ import github.Rin_Chan.Punmod.item.TentacannonItem;
 import github.Rin_Chan.Punmod.item.TheGraterSwordItem;
 import github.Rin_Chan.Punmod.item.TheStoneOfMiteItem;
 import github.Rin_Chan.Punmod.item.TheUltimateBlockItem;
+import github.Rin_Chan.Punmod.util.ModItemGroup;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.item.AxeItem;
@@ -81,7 +81,6 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 
 public class ItemRegistry {
-	private static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, PunMod.MODID);
     private static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, PunMod.MODID);
 
     public static final RegistryObject<DangerIceItem> DANGERICE = ITEMS.register("dangerice", DangerIceItem::new);
@@ -199,7 +198,6 @@ public class ItemRegistry {
     public static final RegistryObject<ArmorItem> OBSIDIEANBOOTS = ITEMS.register("obsidieanboots", () -> new ArmorItem(ModArmorMaterial.OBSIDIEAN, EquipmentSlot.FEET, (new Item.Properties()).tab(ModItemGroup.PUN_MOD)));
     
     public static void init() {
-        BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
         ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
     }
 }

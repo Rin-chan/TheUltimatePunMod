@@ -1,6 +1,7 @@
 package github.Rin_Chan.Punmod.item;
 
 import github.Rin_Chan.Punmod.init.ItemRegistry;
+import github.Rin_Chan.Punmod.util.ModItemGroup;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.entity.LivingEntity;

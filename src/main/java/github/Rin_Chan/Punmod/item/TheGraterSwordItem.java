@@ -1,5 +1,6 @@
 package github.Rin_Chan.Punmod.item;
 
+import github.Rin_Chan.Punmod.util.ModItemGroup;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.Tiers;

@@ -1,4 +1,4 @@
-package github.Rin_Chan.Punmod.item;
+package github.Rin_Chan.Punmod.util;
 
 import github.Rin_Chan.Punmod.init.ItemRegistry;
 import net.minecraft.world.item.CreativeModeTab;

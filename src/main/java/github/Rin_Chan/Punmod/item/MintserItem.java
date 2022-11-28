@@ -1,5 +1,6 @@
 package github.Rin_Chan.Punmod.item;
 
+import github.Rin_Chan.Punmod.util.ModItemGroup;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.entity.EquipmentSlot;

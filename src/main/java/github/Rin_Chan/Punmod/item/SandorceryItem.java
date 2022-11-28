@@ -1,5 +1,6 @@
 package github.Rin_Chan.Punmod.item;
 
+import github.Rin_Chan.Punmod.util.ModItemGroup;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResultHolder;
 import net.minecraft.world.entity.player.Player;
