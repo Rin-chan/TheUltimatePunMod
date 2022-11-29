@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/bat"
+    }
+  ],
+  "addition": "punmod:batfur",
+  "type": "punmod:batfur_from_bat"
+}

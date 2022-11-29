@@ -2,7 +2,6 @@ package github.Rin_Chan.Punmod;
 
 import github.Rin_Chan.Punmod.init.EventRegistry;
 import github.Rin_Chan.Punmod.init.ItemRegistry;
-import github.Rin_Chan.Punmod.util.ModItemProperties;
 
 import com.mojang.logging.LogUtils;
 

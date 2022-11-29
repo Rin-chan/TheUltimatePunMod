@@ -22,7 +22,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
     <details>
         <summary>❌ Materials</summary>
         ✔ Hard Boiled Egg<br>
-        ✔ Bat Fur (Currently does not drop from bats)<br>
+        ✔ Bat Fur<br>
         ✔ Bat-le Iron<br>
         ✔ Morning Star<br>
         ✔ The Ultimate Block<br>
