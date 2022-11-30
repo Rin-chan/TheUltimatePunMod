@@ -84,7 +84,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Steal Knife (No functionality yet)<br>
         ✔ Bown (No functionality yet)<br>
         ✔ Obsi-Die-an Bow (No functionality yet)<br>
-        ✔ Hammer (No functionality yet)<br>
+        ✔ Hammer<br>
         ✔ Canink (No functionality yet)<br>
         ✔ Tentacannon (No functionality yet)<br>
         ✔ Icesickle (No functionality yet, currently does not drop from mobs)<br>
