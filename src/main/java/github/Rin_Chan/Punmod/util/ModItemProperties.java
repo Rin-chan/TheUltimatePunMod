@@ -8,6 +8,7 @@ import net.minecraft.world.item.Item;
 public class ModItemProperties {
 	public static void addCustomItemProperties() {
         makeBow(ItemRegistry.RAINBOW.get());
+        makeBow(ItemRegistry.BOWN.get());
     }
 
     private static void makeBow(Item item) {

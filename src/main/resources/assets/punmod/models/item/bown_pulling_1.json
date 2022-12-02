@@ -1,0 +1,6 @@
+{
+	"parent": "punmod:item/bown",
+	"textures": {
+		"layer0": "punmod:items/bown_pulling_1"
+	}
+}
