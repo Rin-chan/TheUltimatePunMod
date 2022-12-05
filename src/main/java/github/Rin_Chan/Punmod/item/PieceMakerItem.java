@@ -15,8 +15,8 @@ import net.minecraft.world.item.Tiers;
 import net.minecraft.world.level.Level;
 
 public class PieceMakerItem extends SwordItem {
-	int durabilityUsedFromProjectile = 10;
-	int damageFromProjectile = 4;
+	private int durabilityUsedFromProjectile = 10;
+	private int damageFromProjectile = 4;
 	
 	public PieceMakerItem() {
 		super(Tiers.DIAMOND, 3, -2.4F, (new Item.Properties()).tab(ModItemGroup.PUN_MOD));
