@@ -83,7 +83,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Spearmint<br>
         ✔ Steal Knife (No functionality yet)<br>
         ✔ Bown (No functionality yet)<br>
-        ✔ Obsi-Die-an Bow (No functionality yet)<br>
+        ✔ Obsi-Die-an Bow<br>
         ✔ Hammer<br>
         ✔ Canink (No functionality yet)<br>
         ✔ Tentacannon (No functionality yet)<br>
