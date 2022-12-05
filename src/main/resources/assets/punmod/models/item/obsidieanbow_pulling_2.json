@@ -1,0 +1,6 @@
+{
+	"parent": "punmod:item/obsidieanbow",
+	"textures": {
+		"layer0": "punmod:items/obsidieanbow_pulling_2"
+	}
+}

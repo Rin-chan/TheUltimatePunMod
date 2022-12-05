@@ -9,6 +9,7 @@ public class ModItemProperties {
 	public static void addCustomItemProperties() {
         makeBow(ItemRegistry.RAINBOW.get());
         makeBow(ItemRegistry.BOWN.get());
+        makeBow(ItemRegistry.OBSIDIEANBOW.get());
     }
 
     private static void makeBow(Item item) {
