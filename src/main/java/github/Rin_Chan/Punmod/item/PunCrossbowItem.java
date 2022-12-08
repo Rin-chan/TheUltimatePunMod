@@ -2,8 +2,6 @@ package github.Rin_Chan.Punmod.item;
 
 import github.Rin_Chan.Punmod.item.projectile.ExplosiveSnowballProjectile;
 import github.Rin_Chan.Punmod.util.ModItemGroup;
-import net.minecraft.sounds.SoundEvents;
-import net.minecraft.sounds.SoundSource;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResultHolder;
 import net.minecraft.world.entity.player.Player;
@@ -13,8 +11,8 @@ import net.minecraft.world.item.Items;
 import net.minecraft.world.level.Level;
 
 public class PunCrossbowItem extends Item {
-	private int durabilityUsedFromProjectile = 10;
-	private int damageFromProjectile = 4;
+	private int durabilityUsedFromProjectile = 5;
+	private int damageFromProjectile = 6;
 	
 	public PunCrossbowItem() {
 		super(new Item.Properties().stacksTo(1).durability(400).tab(ModItemGroup.PUN_MOD));
