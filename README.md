@@ -79,7 +79,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
     <details>
         <summary>❌ Weapons</summary>
         ✔ Crossbow<br>
-        ✔ Eggsterminator (No functionality yet)<br>
+        ✔ Eggsterminator<br>
         ✔ Spearmint<br>
         ✔ Steal Knife (No functionality yet)<br>
         ✔ Bown (No functionality yet)<br>

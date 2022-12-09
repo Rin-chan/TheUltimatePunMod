@@ -64,7 +64,10 @@ import github.Rin_Chan.Punmod.item.TheGraterSwordItem;
 import github.Rin_Chan.Punmod.item.TheStoneOfMiteItem;
 import github.Rin_Chan.Punmod.item.TheUltimateBlockItem;
 import github.Rin_Chan.Punmod.util.ModItemGroup;
+import net.minecraft.world.effect.MobEffectInstance;
+import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.entity.EquipmentSlot;
+import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.item.AxeItem;
 import net.minecraft.world.item.BowItem;
@@ -127,7 +130,7 @@ public class ItemRegistry {
     public static final RegistryObject<ArctcutItem> ARCTCUT = ITEMS.register("arctcut", ArctcutItem::new);
     public static final RegistryObject<BedderSwordItem> BEDDERSWORD = ITEMS.register("beddersword", BedderSwordItem::new);
     
-    public static final RegistryObject<Item> HARDBOILEDEGG = ITEMS.register("hardboiledegg", () -> new Item(new Item.Properties().tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<Item> HARDBOILEDEGG = ITEMS.register("hardboiledegg", () -> new Item(new Item.Properties().tab(ModItemGroup.PUN_MOD).food(new FoodProperties.Builder().nutrition(1).saturationMod(0.4F).build())));
     public static final RegistryObject<Item> BATFUR = ITEMS.register("batfur", () -> new Item(new Item.Properties().tab(ModItemGroup.PUN_MOD)));
     public static final RegistryObject<Item> DYEMOND = ITEMS.register("dyemond", () -> new Item(new Item.Properties().tab(ModItemGroup.PUN_MOD)));
     public static final RegistryObject<Item> BATLEIRON = ITEMS.register("batleiron", () -> new Item(new Item.Properties().tab(ModItemGroup.PUN_MOD)));
