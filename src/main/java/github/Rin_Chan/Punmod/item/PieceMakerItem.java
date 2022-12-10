@@ -2,8 +2,6 @@ package github.Rin_Chan.Punmod.item;
 
 import github.Rin_Chan.Punmod.item.projectile.DamageSnowballProjectile;
 import github.Rin_Chan.Punmod.util.ModItemGroup;
-import net.minecraft.sounds.SoundEvents;
-import net.minecraft.sounds.SoundSource;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResultHolder;
 import net.minecraft.world.entity.player.Player;
@@ -26,7 +24,6 @@ public class PieceMakerItem extends SwordItem {
 	public InteractionResultHolder<ItemStack> use(Level level, Player player, InteractionHand hand) {
 		ItemStack stack = player.getItemInHand(hand);
 		
-		level.playSound((Player)null, player.getX(), player.getY(), player.getZ(), SoundEvents.SHEEP_AMBIENT, SoundSource.NEUTRAL, 0.5F, 0.4F / (level.getRandom().nextFloat() * 0.4F + 0.8F));
 		  if (!level.isClientSide) {
 			DamageSnowballProjectile snowball = new DamageSnowballProjectile(level, player, damageFromProjectile);
 			ItemStack feather = new ItemStack(() -> Items.FEATHER);
