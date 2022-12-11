@@ -85,7 +85,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Bown (No functionality yet)<br>
         ✔ Obsi-Die-an Bow<br>
         ✔ Hammer<br>
-        ✔ Canink (No functionality yet)<br>
+        ✔ Canink<br>
         ✔ Tentacannon (No functionality yet)<br>
         ✔ Icesickle (No functionality yet, currently does not drop from mobs)<br>
         ✔ Flamethwooler (No functionality yet)<br>
