@@ -10,6 +10,7 @@ import github.Rin_Chan.Punmod.item.CoalOreppleItem;
 import github.Rin_Chan.Punmod.item.DIceMondOrbItem;
 import github.Rin_Chan.Punmod.item.DangerIceItem;
 import github.Rin_Chan.Punmod.item.DiamondOreppleItem;
+import github.Rin_Chan.Punmod.item.DropletItem;
 import github.Rin_Chan.Punmod.item.DyemondAxeItem;
 import github.Rin_Chan.Punmod.item.DyemondHoeItem;
 import github.Rin_Chan.Punmod.item.DyemondOreppleItem;
@@ -135,7 +136,7 @@ public class ItemRegistry {
     public static final RegistryObject<Item> DYEMOND = ITEMS.register("dyemond", () -> new Item(new Item.Properties().tab(ModItemGroup.PUN_MOD)));
     public static final RegistryObject<Item> BATLEIRON = ITEMS.register("batleiron", () -> new Item(new Item.Properties().tab(ModItemGroup.PUN_MOD)));
     public static final RegistryObject<DIceMondOrbItem> DICEMONDORB = ITEMS.register("dicemondorb", DIceMondOrbItem::new);
-    public static final RegistryObject<Item> DROPLET = ITEMS.register("droplet", () -> new Item(new Item.Properties().tab(ModItemGroup.PUN_MOD)));
+    public static final RegistryObject<Item> DROPLET = ITEMS.register("droplet", DropletItem::new);
     public static final RegistryObject<MorningStarItem> MORNINGSTAR = ITEMS.register("morningstar", MorningStarItem::new);
     public static final RegistryObject<Item> OBSIDIEANSHARDS = ITEMS.register("obsidieanshards", () -> new Item(new Item.Properties().tab(ModItemGroup.PUN_MOD)));
     public static final RegistryObject<TheUltimateBlockItem> THEULTIMATEBLOCK = ITEMS.register("theultimateblock", TheUltimateBlockItem::new);

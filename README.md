@@ -45,7 +45,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
     </details>
     <details>
         <summary>❌ Tools</summary>
-        ✔ Rainbow (No functionality yet)<br>
+        ✔ Rainbow<br>
         ✔ The Stone of Mite<br>
         ✔ Flying Pan<br>
         ✔ Flee Bag (Not yet added to dungeon chest)<br>

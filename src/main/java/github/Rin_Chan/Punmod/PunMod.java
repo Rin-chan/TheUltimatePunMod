@@ -1,5 +1,6 @@
 package github.Rin_Chan.Punmod;
 
+import github.Rin_Chan.Punmod.init.EntityRegistry;
 import github.Rin_Chan.Punmod.init.EventRegistry;
 import github.Rin_Chan.Punmod.init.ItemRegistry;
 
@@ -23,6 +24,7 @@ public class PunMod
     public PunMod()
     {
         ItemRegistry.init();
+        EntityRegistry.init();
         
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         
