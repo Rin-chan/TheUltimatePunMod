@@ -93,7 +93,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Holey Sword<br>
         ✔ Piece Maker<br>
         ✔ Pane Maker<br>
-        ✔ The Grater Sword (No functionality yet)<br>
+        ✔ The Grater Sword<br>
         ✔ Bat-le Sword<br>
         ✔ Mints-er<br>
         ✔ Dyemond Sword<br>
