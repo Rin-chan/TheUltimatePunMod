@@ -101,7 +101,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ End Dyemond Sword<br>
         ✔ Lux Dyemond Sword<br>
         ✔ Obsi-Die-an Sword<br>
-        ✔ Punisher (No functionality yet)<br>
+        ✔ Punisher<br>
         ✔ Arctcut (No functionality yet, currently does not drop from mobs)<br>
         ✔ Bedder Sword
     </details>
