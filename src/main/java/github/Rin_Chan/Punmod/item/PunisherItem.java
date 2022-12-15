@@ -37,7 +37,7 @@ public class PunisherItem extends SwordItem {
 			CompoundTag fireworkStar = itemstack.getOrCreateTagElement("Explosion");
 			List<Integer> colourList = Lists.newArrayList();
 			
-			int colourChoice = random.nextInt(15);
+			int colourChoice = random.nextInt(16);
 			
 			switch(colourChoice) {
 				case 0:
