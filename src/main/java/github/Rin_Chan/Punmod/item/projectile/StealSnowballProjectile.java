@@ -43,7 +43,9 @@ public class StealSnowballProjectile extends ThrowableItemProjectile {
       EntityType<?> entityType = entity.getType();
       List<Item> mobLoots = mobLootList.get(entityType.toString());
       
-      int randomInt = random.nextInt(mobLoots.size());
-      player.getInventory().add(new ItemStack(mobLoots.get(randomInt)));
+      if (mobLoots != null) {
+	      int randomInt = random.nextInt(mobLoots.size());
+	      player.getInventory().add(new ItemStack(mobLoots.get(randomInt)));
+      }
    }
 }
