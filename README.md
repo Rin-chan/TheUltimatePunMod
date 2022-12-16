@@ -48,7 +48,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Rainbow<br>
         ✔ The Stone of Mite<br>
         ✔ Flying Pan<br>
-        ✔ Flee Bag (Not yet added to dungeon chest)<br>
+        ✔ Flee Bag<br>
         ✔ Sand-orcery (No functionality yet)<br>
         ✔ Bat-le Axe<br>
         ✔ Dyemond Axe<br>
