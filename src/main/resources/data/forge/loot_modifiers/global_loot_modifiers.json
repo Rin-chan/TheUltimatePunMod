@@ -2,6 +2,7 @@
   "replace": false,
   "entries": [
     "punmod:batfur_from_bat",
-    "punmod:fleebag_from_dungeon"
+    "punmod:fleebag_from_dungeon",
+	"punmod:mint_from_dungeon"
   ]
 }

@@ -16,7 +16,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ❌ Glowice<br>
         ❌ Res-ice-tant Stairs<br>
         ✔ Danger-ice (Have not added the block yet)<br>
-        ✔ Mint (Have not added the block yet, Not yet added to dungeon chest)<br>
+        ✔ Mint (Have not added the block yet)<br>
         ❌ D-ice-mention Portal
     </details>
     <details>

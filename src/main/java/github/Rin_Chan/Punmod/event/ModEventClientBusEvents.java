@@ -6,6 +6,7 @@ import github.Rin_Chan.Punmod.PunMod;
 import github.Rin_Chan.Punmod.client.render.DropletArrowRenderer;
 import github.Rin_Chan.Punmod.event.loot.BatFurFromBatAdditionModifier;
 import github.Rin_Chan.Punmod.event.loot.FleeBagFromDungeonAdditionModifier;
+import github.Rin_Chan.Punmod.event.loot.MintFromDungeonAdditionModifier;
 import github.Rin_Chan.Punmod.init.EntityRegistry;
 import github.Rin_Chan.Punmod.util.ModItemProperties;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -33,7 +34,8 @@ public class ModEventClientBusEvents {
     public static void registerModifierSerializers(@Nonnull final RegistryEvent.Register<GlobalLootModifierSerializer<?>> event) {
         event.getRegistry().registerAll(
             new BatFurFromBatAdditionModifier.Serializer().setRegistryName(new ResourceLocation(PunMod.MODID,"batfur_from_bat")),
-            new FleeBagFromDungeonAdditionModifier.Serializer().setRegistryName(new ResourceLocation(PunMod.MODID, "fleebag_from_dungeon"))
+            new FleeBagFromDungeonAdditionModifier.Serializer().setRegistryName(new ResourceLocation(PunMod.MODID, "fleebag_from_dungeon")),
+            new MintFromDungeonAdditionModifier.Serializer().setRegistryName(new ResourceLocation(PunMod.MODID, "mint_from_dungeon"))
         );
     }
 }
