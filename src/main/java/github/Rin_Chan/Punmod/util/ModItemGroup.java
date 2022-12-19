@@ -13,6 +13,6 @@ public class ModItemGroup extends CreativeModeTab{
 	
 	@Override
 	public ItemStack makeIcon() {
-		return ItemRegistry.COALOREPPLE.get().getDefaultInstance();
+		return ItemRegistry.RAINBOW.get().getDefaultInstance();
 	}
 }
