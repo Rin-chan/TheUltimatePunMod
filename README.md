@@ -49,7 +49,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ The Stone of Mite<br>
         ✔ Flying Pan<br>
         ✔ Flee Bag<br>
-        ✔ Sand-orcery (No functionality yet)<br>
+        ✔ Sand-orcery<br>
         ✔ Bat-le Axe<br>
         ✔ Dyemond Axe<br>
         ✔ Nether Dyemond Axe<br>
