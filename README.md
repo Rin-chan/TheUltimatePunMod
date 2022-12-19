@@ -44,7 +44,7 @@ An (unofficial) successor to [The Ultimate Pun Mod](https://www.minecraftforum.n
         ✔ Dyemond Orepple
     </details>
     <details>
-        <summary>❌ Tools</summary>
+        <summary>✔ Tools</summary>
         ✔ Rainbow<br>
         ✔ The Stone of Mite<br>
         ✔ Flying Pan<br>
