@@ -147,3 +147,5 @@ Coder: Rin-chan<br>
 Texturer: Gibby008 (Items) and Rin-chan (Armor)<br>
 <br>
 Please DM me on Discord(Rin#2739) for any issues relating to credit or ownership.
+<br>
+This cannot be uploaded onto CurseForge as I do not have explicit permission from Gibby008.
